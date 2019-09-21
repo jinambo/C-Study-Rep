@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/pythagoras/bin/Debug/netcoreapp2.2/pythagoras.deps.json
+/Users/jirisrytr/coding/c#/pythagoras/bin/Debug/netcoreapp2.2/pythagoras.runtimeconfig.json
+/Users/jirisrytr/coding/c#/pythagoras/bin/Debug/netcoreapp2.2/pythagoras.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/pythagoras/bin/Debug/netcoreapp2.2/pythagoras.dll
+/Users/jirisrytr/coding/c#/pythagoras/bin/Debug/netcoreapp2.2/pythagoras.pdb
+/Users/jirisrytr/coding/c#/pythagoras/obj/Debug/netcoreapp2.2/pythagoras.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/pythagoras/obj/Debug/netcoreapp2.2/pythagoras.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/pythagoras/obj/Debug/netcoreapp2.2/pythagoras.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/pythagoras/obj/Debug/netcoreapp2.2/pythagoras.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/pythagoras/obj/Debug/netcoreapp2.2/pythagoras.dll
+/Users/jirisrytr/coding/c#/pythagoras/obj/Debug/netcoreapp2.2/pythagoras.pdb

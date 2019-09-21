@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/morsecode/bin/Debug/netcoreapp2.2/morsecode.deps.json
+/Users/jirisrytr/coding/c#/morsecode/bin/Debug/netcoreapp2.2/morsecode.runtimeconfig.json
+/Users/jirisrytr/coding/c#/morsecode/bin/Debug/netcoreapp2.2/morsecode.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/morsecode/bin/Debug/netcoreapp2.2/morsecode.dll
+/Users/jirisrytr/coding/c#/morsecode/bin/Debug/netcoreapp2.2/morsecode.pdb
+/Users/jirisrytr/coding/c#/morsecode/obj/Debug/netcoreapp2.2/morsecode.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/morsecode/obj/Debug/netcoreapp2.2/morsecode.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/morsecode/obj/Debug/netcoreapp2.2/morsecode.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/morsecode/obj/Debug/netcoreapp2.2/morsecode.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/morsecode/obj/Debug/netcoreapp2.2/morsecode.dll
+/Users/jirisrytr/coding/c#/morsecode/obj/Debug/netcoreapp2.2/morsecode.pdb

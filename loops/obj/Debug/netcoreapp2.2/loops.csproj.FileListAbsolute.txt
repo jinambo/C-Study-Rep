@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/loops/bin/Debug/netcoreapp2.2/loops.deps.json
+/Users/jirisrytr/coding/c#/loops/bin/Debug/netcoreapp2.2/loops.runtimeconfig.json
+/Users/jirisrytr/coding/c#/loops/bin/Debug/netcoreapp2.2/loops.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/loops/bin/Debug/netcoreapp2.2/loops.dll
+/Users/jirisrytr/coding/c#/loops/bin/Debug/netcoreapp2.2/loops.pdb
+/Users/jirisrytr/coding/c#/loops/obj/Debug/netcoreapp2.2/loops.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/loops/obj/Debug/netcoreapp2.2/loops.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/loops/obj/Debug/netcoreapp2.2/loops.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/loops/obj/Debug/netcoreapp2.2/loops.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/loops/obj/Debug/netcoreapp2.2/loops.dll
+/Users/jirisrytr/coding/c#/loops/obj/Debug/netcoreapp2.2/loops.pdb

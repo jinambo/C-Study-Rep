@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/splatky/bin/Debug/netcoreapp2.2/splatky.deps.json
+/Users/jirisrytr/coding/c#/splatky/bin/Debug/netcoreapp2.2/splatky.runtimeconfig.json
+/Users/jirisrytr/coding/c#/splatky/bin/Debug/netcoreapp2.2/splatky.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/splatky/bin/Debug/netcoreapp2.2/splatky.dll
+/Users/jirisrytr/coding/c#/splatky/bin/Debug/netcoreapp2.2/splatky.pdb
+/Users/jirisrytr/coding/c#/splatky/obj/Debug/netcoreapp2.2/splatky.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/splatky/obj/Debug/netcoreapp2.2/splatky.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/splatky/obj/Debug/netcoreapp2.2/splatky.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/splatky/obj/Debug/netcoreapp2.2/splatky.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/splatky/obj/Debug/netcoreapp2.2/splatky.dll
+/Users/jirisrytr/coding/c#/splatky/obj/Debug/netcoreapp2.2/splatky.pdb

@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/fileReader/bin/Debug/netcoreapp2.2/fileReader.deps.json
+/Users/jirisrytr/coding/c#/fileReader/bin/Debug/netcoreapp2.2/fileReader.runtimeconfig.json
+/Users/jirisrytr/coding/c#/fileReader/bin/Debug/netcoreapp2.2/fileReader.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/fileReader/bin/Debug/netcoreapp2.2/fileReader.dll
+/Users/jirisrytr/coding/c#/fileReader/bin/Debug/netcoreapp2.2/fileReader.pdb
+/Users/jirisrytr/coding/c#/fileReader/obj/Debug/netcoreapp2.2/fileReader.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/fileReader/obj/Debug/netcoreapp2.2/fileReader.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/fileReader/obj/Debug/netcoreapp2.2/fileReader.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/fileReader/obj/Debug/netcoreapp2.2/fileReader.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/fileReader/obj/Debug/netcoreapp2.2/fileReader.dll
+/Users/jirisrytr/coding/c#/fileReader/obj/Debug/netcoreapp2.2/fileReader.pdb

@@ -1,0 +1,6 @@
+/Users/jirisrytr/coding/c#/consoleapp/obj/Debug/netcoreapp2.2/consoleapp.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/consoleapp/obj/Debug/netcoreapp2.2/consoleapp.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/consoleapp/obj/Debug/netcoreapp2.2/consoleapp.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/consoleapp/obj/Debug/netcoreapp2.2/consoleapp.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/consoleapp/obj/Debug/netcoreapp2.2/consoleapp.dll
+/Users/jirisrytr/coding/c#/consoleapp/obj/Debug/netcoreapp2.2/consoleapp.pdb

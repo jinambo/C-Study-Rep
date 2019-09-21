@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/testy/bin/Debug/netcoreapp2.2/testy.deps.json
+/Users/jirisrytr/coding/c#/testy/bin/Debug/netcoreapp2.2/testy.runtimeconfig.json
+/Users/jirisrytr/coding/c#/testy/bin/Debug/netcoreapp2.2/testy.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/testy/bin/Debug/netcoreapp2.2/testy.dll
+/Users/jirisrytr/coding/c#/testy/bin/Debug/netcoreapp2.2/testy.pdb
+/Users/jirisrytr/coding/c#/testy/obj/Debug/netcoreapp2.2/testy.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/testy/obj/Debug/netcoreapp2.2/testy.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/testy/obj/Debug/netcoreapp2.2/testy.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/testy/obj/Debug/netcoreapp2.2/testy.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/testy/obj/Debug/netcoreapp2.2/testy.dll
+/Users/jirisrytr/coding/c#/testy/obj/Debug/netcoreapp2.2/testy.pdb
