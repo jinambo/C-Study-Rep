@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/podmineny_prikaz/bin/Debug/netcoreapp2.2/podmineny_prikaz.deps.json
+/Users/jirisrytr/coding/c#/podmineny_prikaz/bin/Debug/netcoreapp2.2/podmineny_prikaz.runtimeconfig.json
+/Users/jirisrytr/coding/c#/podmineny_prikaz/bin/Debug/netcoreapp2.2/podmineny_prikaz.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/podmineny_prikaz/bin/Debug/netcoreapp2.2/podmineny_prikaz.dll
+/Users/jirisrytr/coding/c#/podmineny_prikaz/bin/Debug/netcoreapp2.2/podmineny_prikaz.pdb
+/Users/jirisrytr/coding/c#/podmineny_prikaz/obj/Debug/netcoreapp2.2/podmineny_prikaz.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/podmineny_prikaz/obj/Debug/netcoreapp2.2/podmineny_prikaz.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/podmineny_prikaz/obj/Debug/netcoreapp2.2/podmineny_prikaz.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/podmineny_prikaz/obj/Debug/netcoreapp2.2/podmineny_prikaz.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/podmineny_prikaz/obj/Debug/netcoreapp2.2/podmineny_prikaz.dll
+/Users/jirisrytr/coding/c#/podmineny_prikaz/obj/Debug/netcoreapp2.2/podmineny_prikaz.pdb

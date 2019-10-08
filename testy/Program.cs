@@ -6,20 +6,21 @@ namespace testy
     {
         static void Main(string[] args)
         {
-            double t1 = 46.0;
-            double t2 = 77.0;
-            double t3 = 85.0;
+            double t1 = 16.0;
+            double t2 = 21.0;
+            double t3 = 21.0;
             bool result;
 
-            result = t1 > 45.00 || t2 > 45.00 || t3 > 45.00;
-            Console.WriteLine("\n\nAt least one test got more than 45 points. -> " + result);
+            result = t1 > 15.00 || t2 > 15.00 || t3 > 15.00;
+            Console.WriteLine("\n\nAspon jeden test byl splněn. -> " + result);
 
-            result = t1 > 45.00 && t2 > 45.00 && t3 > 45.00;
-            Console.WriteLine("Each test got more than 45 points. -> " + result);
+            result = t1 > 15.00 && t2 > 15.00 && t3 > 15.00;
+            Console.WriteLine("Všechny testy byly splněny. -> " + result);
 
-            result = ((t1 > 45.0) && (t2 > 45.0)) || ((t1 > 45.0) && (t3 > 45.0)) || ((t2 > 45.0) && (t3 > 45.0));
-            Console.WriteLine("At least two tests got more than 45 points. -> " + result);
+            result = ((t1 > 15.0) && (t2 > 15.0)) || ((t1 > 15.0) && (t3 > 15.0)) || ((t2 > 15.0) && (t3 > 15.0));
+            Console.WriteLine("Aspon dva testy byly splněny. -> " + result);
 
+            // vypise dve nejlepsi testy
             if (t1 > t2 && t1 > t3) {
                 Console.WriteLine(t1);
                 if (t2 > t3) {

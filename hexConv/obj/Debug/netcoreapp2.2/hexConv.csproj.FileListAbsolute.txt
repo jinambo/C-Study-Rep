@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/hexConv/bin/Debug/netcoreapp2.2/hexConv.deps.json
+/Users/jirisrytr/coding/c#/hexConv/bin/Debug/netcoreapp2.2/hexConv.runtimeconfig.json
+/Users/jirisrytr/coding/c#/hexConv/bin/Debug/netcoreapp2.2/hexConv.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/hexConv/bin/Debug/netcoreapp2.2/hexConv.dll
+/Users/jirisrytr/coding/c#/hexConv/bin/Debug/netcoreapp2.2/hexConv.pdb
+/Users/jirisrytr/coding/c#/hexConv/obj/Debug/netcoreapp2.2/hexConv.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/hexConv/obj/Debug/netcoreapp2.2/hexConv.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/hexConv/obj/Debug/netcoreapp2.2/hexConv.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/hexConv/obj/Debug/netcoreapp2.2/hexConv.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/hexConv/obj/Debug/netcoreapp2.2/hexConv.dll
+/Users/jirisrytr/coding/c#/hexConv/obj/Debug/netcoreapp2.2/hexConv.pdb

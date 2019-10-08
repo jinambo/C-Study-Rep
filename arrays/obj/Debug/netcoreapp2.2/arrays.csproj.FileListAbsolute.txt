@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/arrays/bin/Debug/netcoreapp2.2/arrays.deps.json
+/Users/jirisrytr/coding/c#/arrays/bin/Debug/netcoreapp2.2/arrays.runtimeconfig.json
+/Users/jirisrytr/coding/c#/arrays/bin/Debug/netcoreapp2.2/arrays.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/arrays/bin/Debug/netcoreapp2.2/arrays.dll
+/Users/jirisrytr/coding/c#/arrays/bin/Debug/netcoreapp2.2/arrays.pdb
+/Users/jirisrytr/coding/c#/arrays/obj/Debug/netcoreapp2.2/arrays.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/arrays/obj/Debug/netcoreapp2.2/arrays.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/arrays/obj/Debug/netcoreapp2.2/arrays.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/arrays/obj/Debug/netcoreapp2.2/arrays.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/arrays/obj/Debug/netcoreapp2.2/arrays.dll
+/Users/jirisrytr/coding/c#/arrays/obj/Debug/netcoreapp2.2/arrays.pdb

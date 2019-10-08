@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/ciselne_soustavy/bin/Debug/netcoreapp2.2/ciselne_soustavy.deps.json
+/Users/jirisrytr/coding/c#/ciselne_soustavy/bin/Debug/netcoreapp2.2/ciselne_soustavy.runtimeconfig.json
+/Users/jirisrytr/coding/c#/ciselne_soustavy/bin/Debug/netcoreapp2.2/ciselne_soustavy.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/ciselne_soustavy/bin/Debug/netcoreapp2.2/ciselne_soustavy.dll
+/Users/jirisrytr/coding/c#/ciselne_soustavy/bin/Debug/netcoreapp2.2/ciselne_soustavy.pdb
+/Users/jirisrytr/coding/c#/ciselne_soustavy/obj/Debug/netcoreapp2.2/ciselne_soustavy.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/ciselne_soustavy/obj/Debug/netcoreapp2.2/ciselne_soustavy.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/ciselne_soustavy/obj/Debug/netcoreapp2.2/ciselne_soustavy.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/ciselne_soustavy/obj/Debug/netcoreapp2.2/ciselne_soustavy.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/ciselne_soustavy/obj/Debug/netcoreapp2.2/ciselne_soustavy.dll
+/Users/jirisrytr/coding/c#/ciselne_soustavy/obj/Debug/netcoreapp2.2/ciselne_soustavy.pdb
