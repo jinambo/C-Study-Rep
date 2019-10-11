@@ -35,12 +35,12 @@ namespace consoleapp {
 
             Console.WriteLine("Press <Enter> to close the program.");
             while (Console.ReadKey().Key != ConsoleKey.Enter) {
-                Console.WriteLine("- tohle neni enter, devko.");
+                Console.WriteLine("- this is not and enter :(.");
             }
         }
 
         public void sayGoodbye(string name) {
-            Console.WriteLine("Goodbye you madafaker called " + name + ".");
+            Console.WriteLine("Goodbye you human called " + name + ".");
         }
     }
 

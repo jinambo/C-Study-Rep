@@ -87,7 +87,8 @@ namespace ciselne_soustavy{
                 divide2 = Math.Floor(firstResuide / 16); // divide (residue of num) by 16
                 secondResuide = firstResuide % 16; // get residue of (residue of num)    - exapmple 44 / 16 -> 12
 
-                // just for test - Console.WriteLine("\n\ntest - " + divide1 + " and madafakin " + divide2 + " the resuide " + firstResuide + " and second " + secondResuide + "\n\n");
+                // just for test
+                // Console.WriteLine("\n\ntest - " + divide1 + " and madafakin " + divide2 + " the resuide " + firstResuide + " and second " + secondResuide + "\n\n");
 
                 Console.WriteLine("Your number in hex system is " + numConv(divide1) + numConv(divide2) + numConv(secondResuide));
             }

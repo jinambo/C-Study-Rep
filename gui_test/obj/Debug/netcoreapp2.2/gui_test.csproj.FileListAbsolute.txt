@@ -1,0 +1,4 @@
+/Users/jirisrytr/coding/c#/gui_test/obj/Debug/netcoreapp2.2/gui_test.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/gui_test/obj/Debug/netcoreapp2.2/gui_test.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/gui_test/obj/Debug/netcoreapp2.2/gui_test.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/gui_test/obj/Debug/netcoreapp2.2/gui_test.AssemblyInfo.cs
