@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/matice/bin/Debug/netcoreapp2.2/matice.deps.json
+/Users/jirisrytr/coding/c#/matice/bin/Debug/netcoreapp2.2/matice.runtimeconfig.json
+/Users/jirisrytr/coding/c#/matice/bin/Debug/netcoreapp2.2/matice.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/matice/bin/Debug/netcoreapp2.2/matice.dll
+/Users/jirisrytr/coding/c#/matice/bin/Debug/netcoreapp2.2/matice.pdb
+/Users/jirisrytr/coding/c#/matice/obj/Debug/netcoreapp2.2/matice.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/matice/obj/Debug/netcoreapp2.2/matice.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/matice/obj/Debug/netcoreapp2.2/matice.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/matice/obj/Debug/netcoreapp2.2/matice.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/matice/obj/Debug/netcoreapp2.2/matice.dll
+/Users/jirisrytr/coding/c#/matice/obj/Debug/netcoreapp2.2/matice.pdb

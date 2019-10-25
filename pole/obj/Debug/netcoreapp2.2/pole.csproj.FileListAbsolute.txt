@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/pole/bin/Debug/netcoreapp2.2/pole.deps.json
+/Users/jirisrytr/coding/c#/pole/bin/Debug/netcoreapp2.2/pole.runtimeconfig.json
+/Users/jirisrytr/coding/c#/pole/bin/Debug/netcoreapp2.2/pole.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/pole/bin/Debug/netcoreapp2.2/pole.dll
+/Users/jirisrytr/coding/c#/pole/bin/Debug/netcoreapp2.2/pole.pdb
+/Users/jirisrytr/coding/c#/pole/obj/Debug/netcoreapp2.2/pole.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/pole/obj/Debug/netcoreapp2.2/pole.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/pole/obj/Debug/netcoreapp2.2/pole.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/pole/obj/Debug/netcoreapp2.2/pole.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/pole/obj/Debug/netcoreapp2.2/pole.dll
+/Users/jirisrytr/coding/c#/pole/obj/Debug/netcoreapp2.2/pole.pdb
