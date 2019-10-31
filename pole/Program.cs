@@ -4,7 +4,16 @@ using System.Linq;
 namespace pole {
     class Program {
         static void Main(string[] args) {
-            double[] array1 = {1,3,5, 7, 12, 34, 8, 16}; 
+            double[] array1 = {12, 3, 5, 7, 12, 34, 8, 16}; 
+            double[][] arrayMulti = new double[5][];
+
+            for(int i = 0; i < arrayMulti.Length; i++) {
+                arrayMulti[i] = new double[10];
+                for(int ij = 0; ij < arrayMulti[i].Length; ij++) {
+                    Console.Write("-");
+                }
+                Console.WriteLine();
+            }
 
             Console.WriteLine("Hodnoty v poli: ");
             foreach (int item in array1) {
@@ -13,10 +22,40 @@ namespace pole {
 
             Console.WriteLine("\n");
 
-            Console.WriteLine("\nMinimální hodnota v poli: " + array1.Min());
+            // počet prvků
             Console.WriteLine("\nPočet prvků v poli: " + array1.Length);
-            Console.WriteLine("\nPrůměrná hodnota v poli: " + array1.Average());
 
+            // nejmenší prvek v poli
+            double minint = array1[0];
+            /* 
+            foreach (double value in array1) {
+                if (value < minint) {
+                    minint = value;
+                    Console.Write("Nejmenší prvek v poli: " + minint + "\n");
+                }
+            }
+            */
+
+            for (int i = 0; i < array1.Length; i++) {
+                if (array1[i] < minint) {
+                    minint = array1[i];
+                    Console.Write("Nejmenší prvek v poli: " + minint + "\n");
+                }
+            }
+            
+
+            // průměrná hodnota v poli
+            Console.WriteLine("\n");
+            double suma, avg;
+            suma = 0;
+            for (int i = 0; i < array1.Length; i++) {
+                suma = suma + array1[i];
+            }
+            avg = suma / array1.Length;
+            Console.WriteLine("\nPrůměrná hodnota v poli: " + avg);
+
+            // sudá čísla
+            Console.WriteLine("\n");
             Console.Write("\nSudá čísla: ");
             for (int i = 0; i < array1.Length; i++) {
                 if (array1[i] % 2 == 0) {
@@ -24,6 +63,7 @@ namespace pole {
                 }
             }
 
+            // lichá čísla
             Console.Write("\nLichá čísla: ");
             for (int i = 0; i < array1.Length; i++) {
                 if (array1[i] % 2 != 0) {

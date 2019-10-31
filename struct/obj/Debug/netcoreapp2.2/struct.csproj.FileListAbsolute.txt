@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/struct/bin/Debug/netcoreapp2.2/struct.deps.json
+/Users/jirisrytr/coding/c#/struct/bin/Debug/netcoreapp2.2/struct.runtimeconfig.json
+/Users/jirisrytr/coding/c#/struct/bin/Debug/netcoreapp2.2/struct.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/struct/bin/Debug/netcoreapp2.2/struct.dll
+/Users/jirisrytr/coding/c#/struct/bin/Debug/netcoreapp2.2/struct.pdb
+/Users/jirisrytr/coding/c#/struct/obj/Debug/netcoreapp2.2/struct.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/struct/obj/Debug/netcoreapp2.2/struct.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/struct/obj/Debug/netcoreapp2.2/struct.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/struct/obj/Debug/netcoreapp2.2/struct.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/struct/obj/Debug/netcoreapp2.2/struct.dll
+/Users/jirisrytr/coding/c#/struct/obj/Debug/netcoreapp2.2/struct.pdb
