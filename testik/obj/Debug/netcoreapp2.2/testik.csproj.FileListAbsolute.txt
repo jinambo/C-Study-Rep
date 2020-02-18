@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/testik/obj/Debug/netcoreapp2.2/testik.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/testik/obj/Debug/netcoreapp2.2/testik.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/testik/obj/Debug/netcoreapp2.2/testik.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/testik/obj/Debug/netcoreapp2.2/testik.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/testik/bin/Debug/netcoreapp2.2/testik.deps.json
+/Users/jirisrytr/coding/c#/testik/bin/Debug/netcoreapp2.2/testik.runtimeconfig.json
+/Users/jirisrytr/coding/c#/testik/bin/Debug/netcoreapp2.2/testik.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/testik/bin/Debug/netcoreapp2.2/testik.dll
+/Users/jirisrytr/coding/c#/testik/bin/Debug/netcoreapp2.2/testik.pdb
+/Users/jirisrytr/coding/c#/testik/obj/Debug/netcoreapp2.2/testik.dll
+/Users/jirisrytr/coding/c#/testik/obj/Debug/netcoreapp2.2/testik.pdb

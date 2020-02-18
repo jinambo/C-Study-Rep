@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/rgb/obj/Debug/netcoreapp2.2/rgb.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/rgb/obj/Debug/netcoreapp2.2/rgb.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/rgb/obj/Debug/netcoreapp2.2/rgb.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/rgb/obj/Debug/netcoreapp2.2/rgb.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/rgb/bin/Debug/netcoreapp2.2/rgb.deps.json
+/Users/jirisrytr/coding/c#/rgb/bin/Debug/netcoreapp2.2/rgb.runtimeconfig.json
+/Users/jirisrytr/coding/c#/rgb/bin/Debug/netcoreapp2.2/rgb.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/rgb/bin/Debug/netcoreapp2.2/rgb.dll
+/Users/jirisrytr/coding/c#/rgb/bin/Debug/netcoreapp2.2/rgb.pdb
+/Users/jirisrytr/coding/c#/rgb/obj/Debug/netcoreapp2.2/rgb.dll
+/Users/jirisrytr/coding/c#/rgb/obj/Debug/netcoreapp2.2/rgb.pdb

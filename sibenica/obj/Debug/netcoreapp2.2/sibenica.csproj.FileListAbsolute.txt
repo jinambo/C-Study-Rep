@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/sibenica/bin/Debug/netcoreapp2.2/sibenica.deps.json
+/Users/jirisrytr/coding/c#/sibenica/bin/Debug/netcoreapp2.2/sibenica.runtimeconfig.json
+/Users/jirisrytr/coding/c#/sibenica/bin/Debug/netcoreapp2.2/sibenica.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/sibenica/bin/Debug/netcoreapp2.2/sibenica.dll
+/Users/jirisrytr/coding/c#/sibenica/bin/Debug/netcoreapp2.2/sibenica.pdb
+/Users/jirisrytr/coding/c#/sibenica/obj/Debug/netcoreapp2.2/sibenica.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/sibenica/obj/Debug/netcoreapp2.2/sibenica.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/sibenica/obj/Debug/netcoreapp2.2/sibenica.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/sibenica/obj/Debug/netcoreapp2.2/sibenica.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/sibenica/obj/Debug/netcoreapp2.2/sibenica.dll
+/Users/jirisrytr/coding/c#/sibenica/obj/Debug/netcoreapp2.2/sibenica.pdb

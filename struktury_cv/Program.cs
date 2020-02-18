@@ -34,17 +34,18 @@ namespace struktury_cv {
             }
 
             // Operace s vektory
-            Console.WriteLine("Soucet vektoru je: " + (vec1.x + vec2.x) + ", " + (vec1.y + vec2.y));
-            Console.WriteLine("Skalarni součin vektoru je: " + ((vec1.x * vec2.x) + (vec1.y * vec2.y)));
-
+            Point2D vec3 = new Point2D();
+            Console.WriteLine("Soucet vektoru je: " + (vec3.sectiVektory(vec1, vec2).x) + ", " + (vec3.sectiVektory(vec1, vec2).y));
+            Console.WriteLine("Soucin vektoru je: " + (vec3.vynasobVektory(vec1, vec2).x) + ", " + (vec3.vynasobVektory(vec1, vec2).y));
+            Console.WriteLine("Skalarni soucin vektoru je: " + vec3.skalar(vec1, vec2));
 
             // Komplexní čísla
-            Complex imaginarniCislo = new Complex(-2.66);
+            Complex imaginarniCislo = new Complex(-2.66, 3);
             Console.WriteLine("Absolutni hodnota komplexního čísla " + imaginarniCislo.imaginarni + "i je: " + imaginarniCislo.absolutka() + "i");
 
 
             // Pole komplexnich cisel
-            var poleKomplexnichCisel = new Complex[] {new Complex(3.7), new Complex(-5.1), new Complex(-8.79), new Complex(-3.42)};
+            var poleKomplexnichCisel = new Complex[] {new Complex(3.7, 2), new Complex(-5.1, 1), new Complex(-8.79, 2), new Complex(-3.42, 3)};
 
             double max = poleKomplexnichCisel[0].absolutka();
 

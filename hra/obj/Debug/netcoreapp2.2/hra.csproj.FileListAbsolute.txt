@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/hra/bin/Debug/netcoreapp2.2/hra.deps.json
+/Users/jirisrytr/coding/c#/hra/bin/Debug/netcoreapp2.2/hra.runtimeconfig.json
+/Users/jirisrytr/coding/c#/hra/bin/Debug/netcoreapp2.2/hra.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/hra/bin/Debug/netcoreapp2.2/hra.dll
+/Users/jirisrytr/coding/c#/hra/bin/Debug/netcoreapp2.2/hra.pdb
+/Users/jirisrytr/coding/c#/hra/obj/Debug/netcoreapp2.2/hra.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/hra/obj/Debug/netcoreapp2.2/hra.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/hra/obj/Debug/netcoreapp2.2/hra.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/hra/obj/Debug/netcoreapp2.2/hra.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/hra/obj/Debug/netcoreapp2.2/hra.dll
+/Users/jirisrytr/coding/c#/hra/obj/Debug/netcoreapp2.2/hra.pdb

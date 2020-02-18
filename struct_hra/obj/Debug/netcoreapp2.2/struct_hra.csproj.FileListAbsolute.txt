@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/struct_hra/obj/Debug/netcoreapp2.2/struct_hra.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/struct_hra/obj/Debug/netcoreapp2.2/struct_hra.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/struct_hra/obj/Debug/netcoreapp2.2/struct_hra.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/struct_hra/obj/Debug/netcoreapp2.2/struct_hra.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/struct_hra/bin/Debug/netcoreapp2.2/struct_hra.deps.json
+/Users/jirisrytr/coding/c#/struct_hra/bin/Debug/netcoreapp2.2/struct_hra.runtimeconfig.json
+/Users/jirisrytr/coding/c#/struct_hra/bin/Debug/netcoreapp2.2/struct_hra.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/struct_hra/bin/Debug/netcoreapp2.2/struct_hra.dll
+/Users/jirisrytr/coding/c#/struct_hra/bin/Debug/netcoreapp2.2/struct_hra.pdb
+/Users/jirisrytr/coding/c#/struct_hra/obj/Debug/netcoreapp2.2/struct_hra.dll
+/Users/jirisrytr/coding/c#/struct_hra/obj/Debug/netcoreapp2.2/struct_hra.pdb

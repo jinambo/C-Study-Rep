@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/constructor/bin/Debug/netcoreapp2.2/constructor.deps.json
+/Users/jirisrytr/coding/c#/constructor/bin/Debug/netcoreapp2.2/constructor.runtimeconfig.json
+/Users/jirisrytr/coding/c#/constructor/bin/Debug/netcoreapp2.2/constructor.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/constructor/bin/Debug/netcoreapp2.2/constructor.dll
+/Users/jirisrytr/coding/c#/constructor/bin/Debug/netcoreapp2.2/constructor.pdb
+/Users/jirisrytr/coding/c#/constructor/obj/Debug/netcoreapp2.2/constructor.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/constructor/obj/Debug/netcoreapp2.2/constructor.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/constructor/obj/Debug/netcoreapp2.2/constructor.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/constructor/obj/Debug/netcoreapp2.2/constructor.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/constructor/obj/Debug/netcoreapp2.2/constructor.dll
+/Users/jirisrytr/coding/c#/constructor/obj/Debug/netcoreapp2.2/constructor.pdb

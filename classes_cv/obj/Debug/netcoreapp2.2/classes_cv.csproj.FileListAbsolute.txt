@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/classes_cv/bin/Debug/netcoreapp2.2/classes_cv.deps.json
+/Users/jirisrytr/coding/c#/classes_cv/bin/Debug/netcoreapp2.2/classes_cv.runtimeconfig.json
+/Users/jirisrytr/coding/c#/classes_cv/bin/Debug/netcoreapp2.2/classes_cv.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/classes_cv/bin/Debug/netcoreapp2.2/classes_cv.dll
+/Users/jirisrytr/coding/c#/classes_cv/bin/Debug/netcoreapp2.2/classes_cv.pdb
+/Users/jirisrytr/coding/c#/classes_cv/obj/Debug/netcoreapp2.2/classes_cv.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/classes_cv/obj/Debug/netcoreapp2.2/classes_cv.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/classes_cv/obj/Debug/netcoreapp2.2/classes_cv.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/classes_cv/obj/Debug/netcoreapp2.2/classes_cv.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/classes_cv/obj/Debug/netcoreapp2.2/classes_cv.dll
+/Users/jirisrytr/coding/c#/classes_cv/obj/Debug/netcoreapp2.2/classes_cv.pdb

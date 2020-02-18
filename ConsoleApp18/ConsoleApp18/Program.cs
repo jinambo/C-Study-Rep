@@ -22,7 +22,13 @@ namespace Test {
 
     class Program {
         static void Main(string[] args) {
-            var polePixel = new Pixel[] { new Pixel(33, 101, 25), new Pixel(3, 1, 5), new Pixel(95, 125, 255), new Pixel(0,0,0) };
+            Random rnd = new Random();
+            var polePixel = new Pixel[] { };
+
+            for(int j = 0; j <= 10; j++) {
+                polePixel[i] = new Pixel(Random(rnd.Next(0, 255)), Random(rnd.Next(0, 255)), Random(rnd.Next(0, 255)));
+            }
+
             int min = polePixel[0].sectiHodnoty();
             int max = polePixel[0].sectiHodnoty();
             Pixel nejmensi = new Pixel();

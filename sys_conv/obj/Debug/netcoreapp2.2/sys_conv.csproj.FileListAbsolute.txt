@@ -1,0 +1,11 @@
+/Users/jirisrytr/coding/c#/sys_conv/bin/Debug/netcoreapp2.2/sys_conv.deps.json
+/Users/jirisrytr/coding/c#/sys_conv/bin/Debug/netcoreapp2.2/sys_conv.runtimeconfig.json
+/Users/jirisrytr/coding/c#/sys_conv/bin/Debug/netcoreapp2.2/sys_conv.runtimeconfig.dev.json
+/Users/jirisrytr/coding/c#/sys_conv/bin/Debug/netcoreapp2.2/sys_conv.dll
+/Users/jirisrytr/coding/c#/sys_conv/bin/Debug/netcoreapp2.2/sys_conv.pdb
+/Users/jirisrytr/coding/c#/sys_conv/obj/Debug/netcoreapp2.2/sys_conv.csprojAssemblyReference.cache
+/Users/jirisrytr/coding/c#/sys_conv/obj/Debug/netcoreapp2.2/sys_conv.csproj.CoreCompileInputs.cache
+/Users/jirisrytr/coding/c#/sys_conv/obj/Debug/netcoreapp2.2/sys_conv.AssemblyInfoInputs.cache
+/Users/jirisrytr/coding/c#/sys_conv/obj/Debug/netcoreapp2.2/sys_conv.AssemblyInfo.cs
+/Users/jirisrytr/coding/c#/sys_conv/obj/Debug/netcoreapp2.2/sys_conv.dll
+/Users/jirisrytr/coding/c#/sys_conv/obj/Debug/netcoreapp2.2/sys_conv.pdb
